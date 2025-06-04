@@ -36,7 +36,7 @@ Anyone who uses this code must comply with the license and mail me at robotichum
 |------------------|------------------|
 | Language         | Kotlin.          |
 | Framework        | Android SDK      |
-| Architecture     | MVVM             |
+| Architecture     |                  |
 | Image Loading    | Glide.           |
 | Permissions      | AndroidX, Runtime Permissions API , Storage , Media |
 
