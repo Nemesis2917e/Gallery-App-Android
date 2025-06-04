@@ -1,0 +1,24 @@
+Nemesis2917e License (v1.0)
+
+Copyright (c) 2025 Saad Arshad
+
+Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and distribute the Software, subject to the following conditions:
+
+1. **Same License Requirement**:  
+   Any project, software, or derivative work that uses this code or any part of it **must be licensed under this exact license** (Saad Arshad License v1.0).
+
+2. **Notification Requirement**:  
+   If you use this software in any capacity (including modification or redistribution), you **must notify** the original author at:  
+   📧 **robotichuman830@gmail.com**
+
+3. **Attribution**:  
+   You must give proper credit to the original author (Saad Arshad), include this license in all copies or substantial portions of the Software, and indicate if changes were made.
+
+4. **No Warranty**:  
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+This license file applies only if the conditions listed above are fully respected.
