@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/exo_controller"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingTop="2dp"
+    android:paddingBottom="20dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+
+    android:layout_gravity="bottom"
+    android:gravity="center_vertical"
+    android:background="#42000000">
+
+    <!-- Play/Pause Button -->
+    <ImageButton
+        android:id="@id/exo_play_pause"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="Play/Pause"
+        android:src="@drawable/play" />
+
+    <!-- Progress bar (timebar) -->
+    <androidx.media3.ui.DefaultTimeBar
+        android:id="@id/exo_progress"
+        android:layout_width="20dp"
+        android:layout_height="35dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+
+    <!-- Playback speed control
+    <Spinner
+        android:id="@+id/speedSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:entries="@array/playback_speeds"
+        android:backgroundTint="@android:color/white"
+        android:popupBackground="#DD000000" />
+-->
+
+</LinearLayout>
