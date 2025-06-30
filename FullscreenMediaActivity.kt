@@ -11,7 +11,9 @@ import android.view.WindowManager
 import android.widget.ImageView
 import android.widget.VideoView
 import androidx.annotation.RequiresApi
-import androidx.appcompat.app.AppCompatActivity
+import
+ androidx.appcompat.app.AppCompatActivity
+
 import com.bumptech.glide.Glide
 import kotlin.jvm.java
 
